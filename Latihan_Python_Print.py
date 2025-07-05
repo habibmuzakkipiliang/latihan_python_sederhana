@@ -1,0 +1,11 @@
+print("Halo Jugo");
+print("Halo Kopilot");
+print("Halo Dunia Minecraft");
+print("Halo Dunia Pemrograman");
+print("Halo Dunia ku");
+print("Halo Kahoot");
+print("Halo Gallan");
+print("Halo Dunia !");
+print("HALO APIP");
+print("Halo Dunia saya");
+print("Halo Ujok");
